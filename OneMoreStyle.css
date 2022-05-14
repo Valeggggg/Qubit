@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+.wrapper {
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header_img {
+    float: left;
+    width: 20%;
+}
+.header_menu {
+    width: 55%;
+}
+.header_menu_item {
+    display: inline-block;
+    list-style: none;
+    padding-left: 14px;
+}
+.menu_link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #1C1C1C;
+}
+.menu_buttons {
+    width: 25%;
+}
+.menu_button_item {
+    display: inline-block;
+    float: left;
+    list-style: none;
+    padding-left: 14px;
+}

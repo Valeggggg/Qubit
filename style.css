@@ -29,14 +29,12 @@ h6 {
 }
 html,
 body {
-
     margin: 0 auto;
     height: 100%;
     line-height: 1;
     font-size: 14px;
     font-weight: 400;
     color: #1C1C1C;
-
 }
 .wrapper {
     min-height: 100%;
